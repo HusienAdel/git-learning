@@ -1,2 +1,2 @@
-# this is big repo for laerning git 
-* I will learn in this repo all I know about github.
+# this is big repo for learnig Github
+> Will be easy for use 
